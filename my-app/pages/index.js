@@ -10,7 +10,7 @@ import {
   CRYPTODEVS_NFT_CONTRACT_ADDRESS,
 } from "../constants";
 import styles from "../styles/Home.module.css";
-
+//4/6/22
 export default function Home() {
 	//
   // ETH Balance of the DAO contract

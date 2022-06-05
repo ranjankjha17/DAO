@@ -12,7 +12,7 @@ import {
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
-	//
+	//5/6/22
   // ETH Balance of the DAO contract
   const [treasuryBalance, setTreasuryBalance] = useState("0");
   // Number of proposals created in the DAO
